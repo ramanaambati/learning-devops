@@ -28,4 +28,4 @@ aws lambda list-functions
 #list AIM users
 echo "print of AIM users"
 aws aim list-users
-
+#this is the change to see git add cjages will show or not
